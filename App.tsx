@@ -4,9 +4,10 @@ import React from 'react';
 const App = () => {
   return (
     <View>
-      <Text>App</Text>
-      <Text>Application</Text>
-      <Text>JSX Code</Text>
+      <Text>I am the software engineer of react native engineer</Text>
+      <Text>I am the software engineer of react native engineer</Text>
+      <Text>I am the software engineer of react native engineer</Text>
+      <Text>I am the software engineer of react native engineer</Text>
     </View>
   );
 };
