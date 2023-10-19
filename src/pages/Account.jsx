@@ -5,6 +5,7 @@ const Account = () => {
   return (
     <View>
       <Text>Account</Text>
+      <Text>Account created successfully</Text>
     </View>
   )
 }
