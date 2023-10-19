@@ -5,7 +5,7 @@ const Signup = () => {
   return (
     <View>
       <Text>Signup</Text>
-      <Text>Signup Successfull</Text>
+      <Text>Signup Successfull Message from here</Text>
     </View>
   )
 }
