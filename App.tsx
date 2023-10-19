@@ -5,6 +5,8 @@ const App = () => {
   return (
     <View>
       <Text>App</Text>
+      <Text>Application</Text>
+      <Text>JSX Code</Text>
     </View>
   );
 };
